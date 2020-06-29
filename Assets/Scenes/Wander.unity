@@ -151,7 +151,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agentPrefab: {fileID: 4538021242167640671, guid: c529006d9cb794045992aa4a0bdd654a,
     type: 3}
-  behaviour: {fileID: 11400000, guid: ad8f9155bfd25f04388a3828541c3bb5, type: 2}
+  behaviour: {fileID: 11400000, guid: d81f89a4436880145a9e06c69fceab2f, type: 2}
   startingCount: 50
   driveFactor: 10
   maxSpeed: 5
@@ -640,7 +640,7 @@ MonoBehaviour:
   - {fileID: 618409723}
   - {fileID: 603680766}
   - {fileID: 341693411}
-  radius: 2
+  radius: 1
   returnPercentage: 0.9
   gizmoSize: {x: 0.5, y: 0.5, z: 0.5}
 --- !u!1 &1448003380
@@ -950,7 +950,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1906047047
 MonoBehaviour:
   m_ObjectHideFlags: 0

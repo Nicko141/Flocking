@@ -151,10 +151,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agentPrefab: {fileID: 4538021242167640671, guid: c529006d9cb794045992aa4a0bdd654a,
     type: 3}
-  behaviour: {fileID: 11400000, guid: ad8f9155bfd25f04388a3828541c3bb5, type: 2}
+  behaviour: {fileID: 11400000, guid: 68b528e47117276469b60da8e9591bdc, type: 2}
   startingCount: 50
   driveFactor: 10
-  maxSpeed: 5
+  maxSpeed: 7
   neighbourRadius: 1.5
   areaRadius: 20
   avoidanceRadiusMultiplier: 0.5
@@ -965,7 +965,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agentPrefab: {fileID: 4538021242167640671, guid: 74e2a37c42e3b444fa944da5579f997c,
     type: 3}
-  behaviour: {fileID: 11400000, guid: b808ed8c063d5524b95671f2dcb758d2, type: 2}
+  behaviour: {fileID: 11400000, guid: 29ce5481b16d1064ab6f239d7324158d, type: 2}
   startingCount: 50
   driveFactor: 10
   maxSpeed: 5
