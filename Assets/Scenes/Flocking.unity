@@ -152,7 +152,7 @@ MonoBehaviour:
   agentPrefab: {fileID: 4538021242167640671, guid: c529006d9cb794045992aa4a0bdd654a,
     type: 3}
   behaviour: {fileID: 11400000, guid: ad8f9155bfd25f04388a3828541c3bb5, type: 2}
-  startingCount: 50
+  startingCount: 100
   driveFactor: 10
   maxSpeed: 5
   neighbourRadius: 1.5
@@ -966,7 +966,7 @@ MonoBehaviour:
   agentPrefab: {fileID: 4538021242167640671, guid: 74e2a37c42e3b444fa944da5579f997c,
     type: 3}
   behaviour: {fileID: 11400000, guid: b808ed8c063d5524b95671f2dcb758d2, type: 2}
-  startingCount: 50
+  startingCount: 100
   driveFactor: 10
   maxSpeed: 5
   neighbourRadius: 1.5
